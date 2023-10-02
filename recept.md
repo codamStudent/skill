@@ -1,6 +1,7 @@
 # how to dirnk water
 ## neded
-**waaaater**
+- _glas_
+- **waaaater**
 ### instruktion
-- birng toe mout
-- slurp
+1. birng toe mout
+2. slurp
